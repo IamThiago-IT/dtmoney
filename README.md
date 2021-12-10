@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="to.do" title="to.do" src=".github/logo.png" /> 
+  <img alt="dtmoney" title="dtmoney" src=".github/logo.png" /> 
 </h1>
 
 <p align="center">
@@ -12,13 +12,13 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
- <img src="https://img.shields.io/static/v1?label=Ignite&message=to.do&color=04d361&labelColor=000000" alt="Ignite" />
+ <img src="https://img.shields.io/static/v1?label=Ignite&message=dtmoney&color=04d361&labelColor=000000" alt="Ignite" />
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="to.do" src=".github/todo.png" width="100%">
+  <img alt="dtmoney" src=".github/dtmoney.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -39,7 +39,7 @@ para treinar um pouco mais sobre manipulação do estado no React.
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn start`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:8080) do seu navegador.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## 📄 Licença
 
